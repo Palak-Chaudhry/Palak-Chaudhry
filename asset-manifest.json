@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Palak-Chaudhry/static/css/main.e6c13ad2.css",
+    "main.js": "/Palak-Chaudhry/static/js/main.7c54d355.js",
+    "static/js/453.2ddb282f.chunk.js": "/Palak-Chaudhry/static/js/453.2ddb282f.chunk.js",
+    "static/media/bg4.jpg": "/Palak-Chaudhry/static/media/bg4.5cf46ac3c6518563d4f7.jpg",
+    "static/media/profile_picture.jpg": "/Palak-Chaudhry/static/media/profile_picture.e045e7952f513de008be.jpg",
+    "static/media/Palak_PhD_Resume.pdf": "/Palak-Chaudhry/static/media/Palak_PhD_Resume.2ec1c8cd644977be6198.pdf",
+    "static/media/SFMono-SemiboldItalic.woff": "/Palak-Chaudhry/static/media/SFMono-SemiboldItalic.10eb596e904940cd1aeb.woff",
+    "static/media/SFMono-RegularItalic.woff": "/Palak-Chaudhry/static/media/SFMono-RegularItalic.3a20a00dfdeb4ba53847.woff",
+    "static/media/SFMono-Semibold.woff": "/Palak-Chaudhry/static/media/SFMono-Semibold.ee054046915420413d00.woff",
+    "static/media/SFMono-Regular.woff": "/Palak-Chaudhry/static/media/SFMono-Regular.e36fa5257c93fc7711ea.woff",
+    "static/media/SFMono-SemiboldItalic.woff2": "/Palak-Chaudhry/static/media/SFMono-SemiboldItalic.9a0ae6382e12c5e28a73.woff2",
+    "static/media/SFMono-RegularItalic.woff2": "/Palak-Chaudhry/static/media/SFMono-RegularItalic.a596917f86217b40000f.woff2",
+    "static/media/SFMono-Semibold.woff2": "/Palak-Chaudhry/static/media/SFMono-Semibold.6e6f6c93f4bdf9cbd090.woff2",
+    "static/media/SFMono-Regular.woff2": "/Palak-Chaudhry/static/media/SFMono-Regular.8799e6387338d58f2f13.woff2",
+    "static/media/Calibre-SemiboldItalic.woff": "/Palak-Chaudhry/static/media/Calibre-SemiboldItalic.ad4bd95abee7bca1bdd6.woff",
+    "static/media/Calibre-RegularItalic.woff": "/Palak-Chaudhry/static/media/Calibre-RegularItalic.57371b9e514dbbe9da31.woff",
+    "static/media/Calibre-Semibold.woff": "/Palak-Chaudhry/static/media/Calibre-Semibold.6972688a249bd53a6c7e.woff",
+    "static/media/Calibre-Regular.woff": "/Palak-Chaudhry/static/media/Calibre-Regular.98526589fa32315c5521.woff",
+    "static/media/Logo.png": "/Palak-Chaudhry/static/media/Logo.6a2932c633192155233b.png",
+    "static/media/Calibre-MediumItalic.woff": "/Palak-Chaudhry/static/media/Calibre-MediumItalic.aa285f95879aa2c2d26b.woff",
+    "static/media/Calibre-Medium.woff": "/Palak-Chaudhry/static/media/Calibre-Medium.46693d9b57a6b8a657b5.woff",
+    "static/media/Calibre-SemiboldItalic.woff2": "/Palak-Chaudhry/static/media/Calibre-SemiboldItalic.5f04bffe7ce988169806.woff2",
+    "static/media/Calibre-Semibold.woff2": "/Palak-Chaudhry/static/media/Calibre-Semibold.94fc73852539d6733dc0.woff2",
+    "static/media/Calibre-RegularItalic.woff2": "/Palak-Chaudhry/static/media/Calibre-RegularItalic.5f875bd7b669f1e11b62.woff2",
+    "static/media/Calibre-Regular.woff2": "/Palak-Chaudhry/static/media/Calibre-Regular.b0d4cbb1201155ddccc2.woff2",
+    "static/media/Calibre-MediumItalic.woff2": "/Palak-Chaudhry/static/media/Calibre-MediumItalic.7aa140573fd9ed30ae01.woff2",
+    "static/media/Calibre-Medium.woff2": "/Palak-Chaudhry/static/media/Calibre-Medium.568dce56f869a519a015.woff2",
+    "index.html": "/Palak-Chaudhry/index.html",
+    "main.e6c13ad2.css.map": "/Palak-Chaudhry/static/css/main.e6c13ad2.css.map",
+    "main.7c54d355.js.map": "/Palak-Chaudhry/static/js/main.7c54d355.js.map",
+    "453.2ddb282f.chunk.js.map": "/Palak-Chaudhry/static/js/453.2ddb282f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7c54d355.js"
+  ]
+}
