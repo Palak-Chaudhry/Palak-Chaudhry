@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Palak-Chaudhry.github.io/Palak-Chaudhry.github.io",
+  "homepage": "https://Palak-Chaudhry.github.io/Palak-Chaudhry",
   "dependencies": {
     "@fullpage/react-fullpage": "^0.1.48",
     "@testing-library/dom": "^10.4.0",
