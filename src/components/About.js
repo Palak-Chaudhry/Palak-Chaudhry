@@ -72,12 +72,14 @@ const About = () => {
           <div className='wrapper'>
           <S.StyledTitle>About me</S.StyledTitle>
           <S.StyledContent>
-            I am a passionate computational biologist with expertise in bioinformatics and data science. 
-            My research focuses on integrating multi-modal biological data to uncover insights into complex 
-            biological systems. I have experience in developing machine learning models for drug discovery 
-            and analyzing single-cell RNA sequencing data. With a strong background in both wet lab techniques 
-            and computational methods, I bridge the gap between biology and computer science to drive 
-            innovation in the field of computational biology.
+          As a passionate computational biologist, I'm on a mission to decode the intricacies of life by merging biology and computer science. 
+          My research is all about integrating diverse biological data to reveal hidden patterns in complex systems. 
+          What sets me apart? A unique blend of wet lab experience and computational skills, allowing me to bridge the gap between the lab bench and the computer screen. 
+          I'm driven by the thrill of innovation and the potential to transform the field of computational biology.
+          When I'm not geeking out over code or data, you can find me soaking up the sun and fresh air—whether that's hiking through scenic trails, catching waves while surfing, or letting loose on the dance floor. 
+          I believe that balance between nature and tech is key to staying inspired and energized.
+          In the long term, I aim to contribute to breakthroughs in personalized medicine. 
+          I'm always looking for opportunities to collaborate on exciting projects. Feel free to connect with me to explore potential collaborations!
           </S.StyledContent>
           </div>
           </S.AboutTextBoxContainer>

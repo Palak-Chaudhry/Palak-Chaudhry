@@ -21,7 +21,8 @@
     "scrollreveal": "^4.0.9",
     "styled-components": "^6.1.15",
     "tsparticles": "^3.8.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.22"
   },
   "scripts": {
     "predeploy": "npm run build",
